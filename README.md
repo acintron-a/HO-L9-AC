@@ -1,4 +1,4 @@
-# HO-L9-AC
+# Hands-on: AWS Core Services (S3, Glue, CloudWatch, Athena)
 This repository contains files related to the *Hands-On: AWS Core Services (S3, Glue, CloudWatch, Athena)*.
 
 The SQL syntax used in the five queries is stored in the file `athena_queries.sql`.
