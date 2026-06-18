@@ -7,11 +7,13 @@ One csv-file (`Amazon Sale Report.csv`) was downloaded from Kaggle and it was pr
 
 The five queries that were executed in Athena did yield output files which are stored under the directory `output_tables/`.
 
-Screenshot 1
+Below, images generated with screenshots of CloudWatch, IAM and S3 are reported.
+
+### Screenshot 1
 ![View of CloudWatch](https://github.com/acintron-a/HO-L9-AC/raw/main/images/cloudwatch_ac.png)
 
-Screenshot 2
+### Screenshot 2
 ![View of IAM](https://github.com/acintron-a/HO-L9-AC/raw/main/images/aim_ac.png)
 
-Screenshot 3
+### Screenshot 3
 ![View of S3 buckets](https://github.com/acintron-a/HO-L9-AC/raw/main/images/s3_ac.png)
